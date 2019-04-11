@@ -1,5 +1,5 @@
 {
-  "name": "papa-node-hello-000",
+  "name": "lightapp-000",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
+    "url": "git+https://github.com/amityr/lightapp.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ronen Amity",
+  "license": "GPL",
   "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
+    "url": "https://github.com/amityr/lightapp/issues"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "homepage": "https://github.com/amityr/lightapp/#readme"
 }
