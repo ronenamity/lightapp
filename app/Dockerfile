@@ -4,7 +4,7 @@ FROM node:8
 WORKDIR /opt
 
 # Install app dependencies
-COPY ../app/i* .
+COPY ../i* .
 
 RUN npm install
 
