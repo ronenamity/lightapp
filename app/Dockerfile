@@ -5,6 +5,7 @@ WORKDIR /opt
 
 # Install app dependencies
 COPY index.js .
+COPY package.json .
 
 RUN npm install
 
